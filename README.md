@@ -1,4 +1,4 @@
-## Hi there, I'm Syafiqah Afrina! 👋
+## Hi there, I'm Afrina! 👋
 
 I am a **Bachelor of Information Systems (Hons.)** graduate from **UiTM Jasin**. I am a passionate **Software Engineer** with experience in developing web and mobile applications, focusing on full-cycle system development and technical support.
 
