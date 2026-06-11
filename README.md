@@ -15,7 +15,7 @@ I am a **Bachelor of Information Systems (Hons.)** graduate from **UiTM Jasin**.
 - **Neighbourhood Patrol System:** A Java-based desktop system for incident reporting and patrol management.
 
 ### 🔭 Experience
-- **Software Engineer (PROTÉGÉ) | Percetakan Keselamatan Nasional (PKN)**
+- **Management Information System (PROTÉGÉ) | Percetakan Keselamatan Nasional (PKN)**
   *Duration: 8 Months*
   - Developed **SPSC (Sistem Percetakan Setem Cukai)**, an internal backend system for tax stamp production.
   - Migrated system architecture from external workflow tools to a fully internal **PHP** and **MS SQL Server** environment.
