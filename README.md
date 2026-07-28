@@ -26,24 +26,24 @@ I am a passionate **Software Engineer** with a focus on full-cycle system develo
 
 ### 🏗 Featured Projects
 
-#### 🚀 [Industrial Serialization Control System](https://github.com/your-username/repo-link)
-*Professional Project @ PKN (2024)*
+#### 🚀 [Industrial Printing Control System]
+*Professional Project @ PKNSB (2025-2026)*
 - Developed a real-time **Node.js engine** to automate REA JET industrial printers.
 - Designed a multi-lane buffer management system to synchronize unique serial codes across 5 production lines without downtime.
-- Integrated MS SQL Server to track and verify 100% of printed UIDs for high-security tax stamp production.
+- Integrated MS SQL Server to track and verify the printed UIDs for high-security tax stamp production.
 
-#### 📄 [SPSC (Sistem Percetakan Setem Cukai)](https://github.com/your-username/repo-link)
+#### 📄 [SPSC (Sistem Percetakan Setem Cukai)]
 - Built a centralized backend system for tax stamp production using **PHP and MS SQL Server**.
 - Migrated architecture from external tools to a fully internal environment, significantly reducing third-party dependency.
 
-#### 🏢 [CPRO System (MBPG)](https://github.com/your-username/repo-link)
+#### 🏢 [CPRO (Corporate and Public Relation Officer) System (MBPG)]
 - Web-based system for managing internal design requests and corporate material workflows.
 
 ---
 
 ### 🔭 Experience
 
-- **Management Information System (PROTÉGÉ)** | *Percetakan Keselamatan Nasional (PKN)*
+- **Management Information System Executive** | *Percetakan Keselamatan Nasional (PKNSB)*
 - **IT Support Intern** | *Majlis Bandaraya Pasir Gudang (MBPG)*
 
 ---
